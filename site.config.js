@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Transitive Bullshit',
-  domain: '',
+  domain: 'xiaojimei.cn',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
